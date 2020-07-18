@@ -1,3 +1,3 @@
 연습
 
-feautre/jina 추가
+feautre/jina 수정 : develop에만 
